@@ -1,10 +1,3 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
-    *{
-        font-family: "DM Mono";
-    }
-</style>
-
 # 🎓 EduBase
 
 Welcome to **EduBase**! This is a student-level project designed to create a simple lightweight **Database Management System (DBMS)** for managing student portal data. Built entirely in **C** and powered by **B+ Trees**, EduBase ensures fast and efficient data storage and retrieval. 🌟
