@@ -24,10 +24,10 @@ typedef struct
     CoreNode *root;
 } Core;
 
-Core *create_bplus_tree(void);
-void insert_bplus_tree(Core *tree, int key);
-CoreNode *search_bplus_tree(Core *tree, int key);
-void delete_bplus_tree(Core *tree, int key);
-void print_bplus_tree(Core *tree);
+Core *create_core_lib(void);
+void insert_core_lib(Core *tree, int key);
+CoreNode *search_core_lib(Core *tree, int key);
+void delete_core_lib(Core *tree, int key);
+void print_core_lib(Core *tree);
 
 #endif
