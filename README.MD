@@ -42,9 +42,9 @@ EduBase is a practical implementation of a simple DBMS designed for educational 
 
 ## 📚 Learning Objectives
 
-    - Implement and understand B+ Tree indexing.
-    - Learn the basics of building a DBMS from scratch.
-    - Collaborate effectively using project management techniques.
+- Implement and understand B+ Tree indexing.
+- Learn the basics of building a DBMS from scratch.
+- Collaborate effectively using project management techniques.
 
 ## 📧 Contact
 
@@ -53,7 +53,9 @@ For questions or feedback, reach out to:
 MahdinOhi: mahdinislamohi@gmail.com
 
 Collaborators:
-mehedi90a@gmail.com
-shimulkumarshoishob@gmail.com
-riyadhhossain039@gmail.com
+
+- mehedi90a@gmail.com
+- shimulkumarshoishob@gmail.com
+- riyadhhossain039@gmail.com
+
 🌟 EduBase is built by students, for students, as a learning project. Happy coding! 🎉
